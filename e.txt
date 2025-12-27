@@ -1,1 +1,2 @@
 This file is being added to Master branch
+Working with rules in github
